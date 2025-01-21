@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.HttpClientErrorException;
 
 import br.ufrn.imd.cine.model.movie.MovieRecord;
-import br.ufrn.imd.cine.services.MovieService;
+import br.ufrn.imd.cine.services.movie.MovieService;
 import br.ufrn.imd.cineframework.models.movie.Genre;
 import br.ufrn.imd.cineframework.models.movie.Movie;
 import br.ufrn.imd.cineframework.themoviedb.TheMovieDBAPI;

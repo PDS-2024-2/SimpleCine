@@ -1,4 +1,4 @@
-package br.ufrn.imd.cine.services;
+package br.ufrn.imd.cine.services.session;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

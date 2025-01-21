@@ -1,4 +1,4 @@
-package br.ufrn.imd.cine.services;
+package br.ufrn.imd.cine.services.movie;
 
 import java.util.List;
 import java.util.Objects;

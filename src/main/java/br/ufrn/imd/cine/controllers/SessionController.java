@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.ufrn.imd.cine.model.session.SessionRecord;
-import br.ufrn.imd.cine.services.SessionService;
+import br.ufrn.imd.cine.services.session.SessionService;
 import br.ufrn.imd.cine.services.user.UserService;
 import br.ufrn.imd.cineframework.models.session.Session;
 import br.ufrn.imd.cineframework.models.user.User;

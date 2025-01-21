@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.ufrn.imd.cine.services.SessionService;
+import br.ufrn.imd.cine.services.session.SessionService;
 import br.ufrn.imd.cineframework.models.promotion.Promotion;
 import br.ufrn.imd.cineframework.models.session.Session;
 import br.ufrn.imd.cineframework.repositories.GenericRepository;
